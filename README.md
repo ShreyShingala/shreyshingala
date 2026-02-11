@@ -3,6 +3,7 @@
 SE 30' @ UWaterloo
 
 Here's a map of my coding time!
+
 ![Coding Map](https://github.com/ShreyShingala/shreyshingala/blob/main/github-metrics.svg)
 
 <!--
