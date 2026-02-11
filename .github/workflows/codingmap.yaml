@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Hackatime Heatmap
-        uses: ImShyMike/hackatime-heatmap@master
+        uses: ImShyMike/hackatime-heatmap@main
         with:
           api_key: ${{ secrets.WAKATIME_API_KEY }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
