@@ -2,7 +2,7 @@
 
 SE 30' @ UWaterloo
 
-Here's a map of my coding time!
+Here's a map of my coding time! (Powered by Wakatime)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=2674&theme=dark&timezone=America/Toronto">
