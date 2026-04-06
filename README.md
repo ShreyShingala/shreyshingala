@@ -4,7 +4,11 @@ SE 30' @ UWaterloo
 
 Here's a map of my coding time!
 
-![Coding Heatmap](https://heatmap.shymike.dev?id=2674&theme=light&timezone=America/Toronto)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=2674&theme=dark&timezone=America/Toronto">
+  <source media="(prefers-color-scheme: light)" srcset="https://heatmap.shymike.dev?id=2674&theme=light&timezone=America/Toronto">
+  <img alt="Coding Heatmap" src="https://heatmap.shymike.dev?id=2674&theme=light&timezone=America/Toronto">
+</picture>
 <!--
 **ShreyShingala/shreyshingala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
