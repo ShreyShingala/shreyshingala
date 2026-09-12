@@ -1,6 +1,6 @@
 ## Hey I'm Shrey!
 
-SE 30' @ UWaterloo
+SE 30' @ UWaterloo, Software Co-Lead @ Waterloo Rocketry
 
 <!-- Here's my coding activity (Powered by Wakatime)! -->
 
